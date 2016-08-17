@@ -1,0 +1,28 @@
+# Site
+title: L_Gallinaro
+subtitle:
+description:
+author: L Gallinaro
+language:
+timezone:
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: http://glnro.github.io/
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+theme: beautiful-hexo
+
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
+
+
+
+deploy:
+  type: git
+  repo: https://github.com/glnro/glnro.github.io
