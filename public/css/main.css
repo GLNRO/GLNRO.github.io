@@ -96,6 +96,11 @@ img {
 
 /* --- Navbar --- */
 
+.name-title{
+  height: 2em;
+  margin-bottom: 1em;
+}
+
 .navbar-custom {
   background: #131E25;
   /*border-bottom: 1px solid #EAEAEA;*/
