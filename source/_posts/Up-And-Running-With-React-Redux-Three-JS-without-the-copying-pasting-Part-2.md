@@ -1,7 +1,6 @@
 ---
 title: >-
-  Up And Running With React & Redux & Three.JS without the
-  copying/pasting...Part 2
+  Up And Running With React & Redux & Three.JS Part 2
 date: 2018-01-25 21:13:40
 tags: react redux three.js
 ---
